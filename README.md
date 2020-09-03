@@ -1,0 +1,1 @@
+# myalomatika-voice-service
